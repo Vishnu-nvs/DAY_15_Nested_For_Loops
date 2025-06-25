@@ -69,6 +69,13 @@ Part2_Task2.py (Output)
 7           7  
 9  9  9  9  9  
 
+Part2_Task3.py  (Output)
+1 
+1 3 
+1 3 5        
+1 3 5 7      
+1 3 5 7 9    
+1 3 5 7 9 11 
 
 Part2_Task4.py (Output)
 A
